@@ -1,0 +1,23 @@
+#footer {
+  position: absolute;
+  bottom: 0;
+  height: 2.5rem;
+  width: 100%;
+  text-align: center;
+  margin: 15px;
+}
+
+#icon {
+  color: red;
+  font-size: 20px;
+}
+
+#dollar {
+  margin-right: 25px;
+}
+#euro {
+  margin-left: 25px;
+}
+#tittle {
+  font-size: 15px;
+}
